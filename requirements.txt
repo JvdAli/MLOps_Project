@@ -6,4 +6,6 @@ pyyaml
 python-dotenv
 scikit-learn
 seaborn
+catboost
+xgboost
 -e .
